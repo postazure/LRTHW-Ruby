@@ -1,0 +1,1 @@
+EX6_Strings_Text
